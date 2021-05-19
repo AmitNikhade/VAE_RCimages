@@ -6,9 +6,10 @@ Implementation of Variational autoencoder using pytorch
 pip install Requirements
 
 ## Usage
-
-python prepare_data.py
+<br />
+python prepare_data.py 
+<br />
 python train.py
-
+<br />
 ## Reconstructions
 
